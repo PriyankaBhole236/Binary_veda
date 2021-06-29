@@ -1,0 +1,19 @@
+img {
+  float: right;
+  height: 50%;
+}
+h1,
+h5 {
+  color: white;
+}
+#Submit {
+  border-radius: 10px;
+  background-color: #22c3d1;
+}
+
+#View {
+  border-radius: 10px;
+}
+#features {
+  text-align: center;
+}
